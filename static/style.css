@@ -1,0 +1,16 @@
+.heading-2 {
+    color: rgb(56, 192, 3);
+    text-align: center;
+    padding: 20px 0;
+}
+#ctr-btn {
+    color: white;
+    background-color: rgb(80, 80, 248);
+    padding: 6px 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    outline: none;
+    border-radius: 6px;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
